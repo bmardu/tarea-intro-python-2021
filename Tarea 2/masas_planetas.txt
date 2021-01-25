@@ -1,0 +1,9 @@
+Planeta	Masa (kg)
+Mercurio	3.302e23
+Venus	4.8690e24
+Tierra	5.9742e24
+Marte	6.4191e23
+Júpiter	1.8987e27
+Saturno	5.6851e26
+Urano	8.6849e25
+Neptuno	1.0244e26
